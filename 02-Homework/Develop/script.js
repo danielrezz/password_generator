@@ -21,7 +21,7 @@ function writePassword() {
             passwordLength.push(Number(length));
         }
 
-        
+
 
     }
 
