@@ -14,7 +14,7 @@ This is a generator made using Javascript that creates a randomized password bas
 Content
 </h2>
 
-<img src="./Screen Shot 2020-10-31 at 7.17.25 PM.png">
+<img src="password_generator/02-Homework/Assets/Screen Shot 2020-10-31 at 7.17.25 PM.png">
 
 <h2>
 Challenges
